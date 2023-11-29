@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\$\sim\$
+]]></content>
+	<tabTrigger>sim</tabTrigger>
+	<scope>text.tex.latex</scope>
+</snippet>
+
