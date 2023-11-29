@@ -152,8 +152,8 @@ shift+command+鼠标点击skim可以反向定位
 
 ## 设置snippet
 
-打开preferecne——browse packages 打开usersnappets文件夹 放到此处即可
+打开preferecne——browse packages 打开
+
+将usersnappets文件夹 放到此处即可
 
 //当然很多东西也可以自己来设置
-
-usersnappets文件 在usersnappets branches里面
