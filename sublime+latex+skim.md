@@ -85,9 +85,9 @@ shift+command+鼠标点击skim可以反向定位
 
 ---
 
-## sublime滴一些设置
+## sublime的一些设置
 
-打开preference——setting, 替换成如下滴内容
+打开preference——setting, 替换成如下的内容
 
 //当然很多东西也可以自己来设置
 
@@ -155,3 +155,5 @@ shift+command+鼠标点击skim可以反向定位
 打开preferecne——browse packages 打开usersnappets文件夹 放到此处即可
 
 //当然很多东西也可以自己来设置
+
+usersnappets文件 在usersnappets branches里面
